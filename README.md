@@ -23,4 +23,4 @@ HTTPS加密协议：正规网站通常会启用HTTPS加密协议，确保用户�
 
 无恶意广告：安全网站不会强制跳转到广告页面或要求用户下载不明插件。优质平台提供顺畅的观看体验，避免因恶意广告干扰而影响观影过程。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/july4562/45577 ）</span>
